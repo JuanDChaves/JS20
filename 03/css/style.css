@@ -5,7 +5,7 @@
 }
 
 body{
-    font-family: "Questrial", sans-serif;
+    font-family: "Questrial", "Font Awesome 5 Free", sans-serif;
     background-color: #666;
     display: flex;
     flex-direction: column;
